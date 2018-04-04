@@ -1,0 +1,195 @@
+.navbar {
+	margin-top: 40px;
+}
+
+.ikon {
+	float: right;
+	margin-right: 50px;
+	margin: auto;
+}
+
+.ikon a {
+	padding-right: 20px;
+}
+
+.ikon 
+ul{
+	margin: 0;
+}
+
+.link ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.link li{
+	display: inline;
+}
+.link a{
+	text-decoration: none;
+	border-radius: 5px;
+	text-align: center;
+	display: inline-block;
+	color: white;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.link a:hover {
+	background-color: #fc5555;
+}
+
+.link {
+	margin-left: 80px;
+}
+
+.baris1 {
+	margin-top: 125px;
+	margin-left: 230px;
+}
+.isi {
+	margin-top: 50px;
+	padding-right: 630px;
+}
+
+.tombol {
+	margin-top: 20px;
+	margin-left: 160px; 
+}
+
+.container-left {
+	width: 50%;
+	height: 600px;
+	float: left;
+	padding-left: 230px;
+	padding-right: 30px;
+}
+
+.container-right {
+	width: 50%;
+	height: 600px;
+	float: right;
+	padding-left: 50px;
+	padding-right: 230px;
+	margin: auto;
+}
+
+.baris2 {
+	margin-top: 280px;
+}
+
+.judul2 {
+	margin-bottom: 15px;
+	color: #5bf88b;
+}
+
+.isi2 {
+	color: #5bf88b;
+	size: 4px;
+}
+
+.team {
+	margin-bottom: 15px;
+	color: #5bf88b;
+}
+
+.container-left-baris3 {
+	width: 50%;
+	height: 650px;
+	float: left;
+	padding-right: 50px;
+	padding-left: 230px;
+}
+
+.container-right-baris3 {
+	width: 50%;
+	height: 650px;
+	float: right;
+	padding-left: 50px;
+	padding-right: 230px;
+}
+
+.customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.customers td, .customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.customers tr:nth-child(even){background-color: #f2f2f2;}
+
+.customers tr:hover {background-color: #ddd;}
+
+.customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+
+.biodata {
+	margin-bottom: 40px;
+}
+
+.kontak {
+	margin-bottom: 40px;
+}
+
+.sponsor-left {
+	float: left;
+	width: 50%;
+	margin-top: 20px;
+	margin-bottom: 100px;
+}
+
+.sponsor-right {
+	float: right;
+	width: 50%;	
+	margin-top: 20px;
+	height: 100px;
+}
+
+.logo-follow {
+	margin: 0;	
+}
+
+.logo-follow ul {
+	list-style-type: none;
+}
+
+.logo-follow li {
+	text-decoration: none;
+	display: inline;
+	padding-right: 20px;
+}
+
+.judul-sponsor {
+	margin-bottom: 15px;
+}
+
+.sponsor1 ul {
+	list-style-type: none;
+}
+
+.sponsor1 li {
+	text-decoration: none;
+	display: inline;
+	padding-right: 50px;
+}
+
+.ikon2 {
+	float: left;
+	padding-left: 240px;
+}
+
+.ikon3 {
+	float: left;
+	padding-left: 30px;
+
+}
